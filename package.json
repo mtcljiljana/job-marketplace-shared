@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2",
+  "version": "0.1.0",
   "license": "MIT",
   "types": "./src/index.d.ts",
-  "description": "Helpers library for Job Marketplace app",
+  "description": "Helpers library for Jobsy app",
   "engines": {
     "node": ">=22"
   },
@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@mtcljiljana/job-marketplace-shared",
+  "name": "@mtcljiljana/jobsy-shared",
   "author": "Ljiljana Matic",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mtcljiljana/job-marketplace-shared.git"
+    "url": "git+https://github.com/mtcljiljana/jobsy-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
